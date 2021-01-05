@@ -1,0 +1,13 @@
+
+
+spring:
+  sleuth:
+    async:
+      enabled: false
+
+#logging:
+#  level:
+#    org:
+#      springframework:
+#        cloud:
+#          sleuth: trace
